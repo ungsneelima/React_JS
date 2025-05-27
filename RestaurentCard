@@ -1,0 +1,13 @@
+const RestaurentCard = function() {
+    return (
+        <>
+            <img 
+                src="https://static.investindia.gov.in/s3fs-public/2023-10/World%20Food%20Day%20India%E2%80%99s%20Push%20Towards%20Sustainable%20Food%20Practices.jpg"
+                alt="Food"
+                height="200"
+                width="100"
+            />
+        </>
+    );
+};
+export default RestaurentCard;

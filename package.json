@@ -1,0 +1,30 @@
+{
+  "name": "tmf_react",
+  "version": "1.0.0",
+  "description": "first react app",
+  "scripts": {
+    "test": "zest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungsneelima/React_JS.git"
+  },
+  "keywords": [
+    "react",
+    "demo",
+    "app"
+  ],
+  "author": "ungsneelima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ungsneelima/React_JS/issues"
+  },
+  "homepage": "https://github.com/ungsneelima/React_JS#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
